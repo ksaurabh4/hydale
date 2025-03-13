@@ -28,7 +28,7 @@ echo('part 1');
   $contact->smtp = array(
     'host' => 'smtp.hostinger.com',
     'username' => 'support@skywondergps.com',
-    'password' => 'iU#QipV2jRXP7sF',
+    'password' => '',
     'port' => '465'
   );
 
